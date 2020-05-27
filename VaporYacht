@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Vapor.css">
+</head>
+<body>
+
+<ul>
+  <li><a href="home">VAPORYACHT</a></li>
+
+  <li><a href="#news">Philosophy</a></li>
+
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Services</a>
+    <div class="dropdown-content">
+      <a href="#">Yacht Cleaning</a>
+      <a href="#">Yacht Polishing</a>
+      <a href="#">Yacht Special Cleaning Service</a>
+    </div>
+
+	<li><a href="#news">Gallery</a></li>  
+
+    <li class="dropdown">
+		<a href="javascript:void(0)" class="dropbtn">COVID-19</a>
+		<div class="dropdown-content"  text-align="center";  >
+		<a href="#">
+		CURRENTS EVENTS<br>
+
+		In these dificult times that humanity lives due tothe arrival of COVID 19,<br> 
+		it is mandatory to have properly sanitized spaces onboard to guarantee a <br>
+		better performance of its Crew and better enjoyment of the guests, <br>
+		always remembering the first thing: "Onboard Security".<br><br>
+
+		At Vapor Yachts we are dedicated and ready to create long-term business link,<br> 
+		wishing that our processes, evaluating our actions to obtain as a result an <br>
+		excellent CUSTOMER/SERVICE relationship whit competitive bugget adapted to <br>
+		the current market.<br><br>
+
+		We are infinitely grateful for your interest, hoping to get a pront response. <br>
+		Thank for your preference.<br><br>
+
+		Capt. Jose Ordaz<br>
+		Genearl Manager<br>
+		Vapor Yachts Corp. 
+		</a>
+		</div>
+ 
+</ul>
+
+<h4> WELCOME TO VAPOR YACHTS
+
+"LIKE ATTRACK LIKE" is a fundamental universal principie that helps explain the latter. 
+Treat yourself to clean healthy boat, yacht, business place or any other property. 
+whit ECO CLEANINIG SOLUTIONS from the Vapor Yachts Team
+</h4>
+
+
+<footer>Marisabel Molina-All Rights Reserved</footer>
+
+</body>
+</html>
